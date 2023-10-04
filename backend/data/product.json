@@ -12,7 +12,13 @@
     "averageRating": 4.5,
     "price": 1620
   },
- 
+  {
+    "id": 3,
+    "name": "Samsung S23 Ultra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUNZORMNuP-uLMYMGmuABZvQPugjAB8kXXg&usqp=CAU",
+    "averageRating": 4.8,
+    "price": 1440
+  },
   {
     "id": 4,
     "name": "Realme 11 Pro 5G",
